@@ -44,9 +44,8 @@
         linkTerr.style.display  =   "block";
         imageList.innerHTML = ""; // Limpiar la lista de imágenes
         // Agregar las imágenes del territorio que desees mostrar aquí
-        showImage("img/territorio/octubre1.jpeg", "Territorio 1");
+        showImage("img/territorio/octubre2.jpeg", "Territorio 1");
         showImage("img/territorio/map.jpeg", "Territorio 2");
-        showImage("img/territorio/octubre_21.jpeg", "Territorio 3");
         // Agregar más imágenes si es necesario
     });
 
